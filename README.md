@@ -1,3 +1,3 @@
 # Livewire
 
-Wifi Managemet tool
+Wifi Management tool
