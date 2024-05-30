@@ -27,13 +27,6 @@ path ="examples/windows/src/main.rs"
 name="android"
 path ="examples/android/src/main.rs"
 
-[workspace] 
-members = [".", "examples/android", "examples/linux","examples/mac", "examples/windows"] 
-
-
-
-[workspace.dependencies]
-wifiscanner = "0.5.1"
 
 
 [dependencies]
